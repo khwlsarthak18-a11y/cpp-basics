@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
+        // brute force 
         vector<int>ans;
         vector<int>result;
         int n=nums2.size();
