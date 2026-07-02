@@ -7,6 +7,7 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -47,4 +49,5 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
