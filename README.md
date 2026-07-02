@@ -32,13 +32,19 @@ C++ DSA practice and LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
