@@ -26,6 +26,7 @@ C++ DSA practice and LeetCode solutions.
 | [0143-reorder-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +37,7 @@ C++ DSA practice and LeetCode solutions.
 | ------- |
 | [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -43,6 +45,7 @@ C++ DSA practice and LeetCode solutions.
 | [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -54,8 +57,10 @@ C++ DSA practice and LeetCode solutions.
 | [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
