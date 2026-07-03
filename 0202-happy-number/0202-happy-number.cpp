@@ -1,0 +1,32 @@
+class Solution {
+public:
+    int getSum(int n)
+    {
+        int sum=0;
+        while(n>0){
+        int digit=n%10;
+         n=n/10;
+        sum+=digit*digit;
+        }
+        return sum;
+
+    }
+    bool isHappy(int n) {
+        
+        unordered_set<int>seen;
+        while(n!=1){
+        if(seen.find(n)!=seen.end())
+        {
+           return false;
+        }
+        else{
+
+            seen.insert(n);
+            n=getSum(n);
+            
+        }
+        
+        }
+        return true;;
+    }
+};
