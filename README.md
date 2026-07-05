@@ -16,6 +16,7 @@ C++ DSA practice and LeetCode solutions.
 | [0143-reorder-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
@@ -43,6 +44,7 @@ C++ DSA practice and LeetCode solutions.
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -59,6 +61,7 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
