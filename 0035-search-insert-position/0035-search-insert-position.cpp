@@ -13,7 +13,7 @@ public:
             }
             else if(nums[mid]<target)
             {
-                st=mid;
+                
                 st=mid+1;
 
             }
