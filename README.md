@@ -41,6 +41,7 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0035-search-insert-position) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
@@ -76,6 +77,7 @@ C++ DSA practice and LeetCode solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0704-binary-search) |
