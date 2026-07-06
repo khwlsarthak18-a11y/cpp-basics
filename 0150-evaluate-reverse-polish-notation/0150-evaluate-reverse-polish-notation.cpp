@@ -5,39 +5,35 @@ public:
         stack<int>st;
         for(string ch:tokens)
         {
-            if(ch=="+" || ch=="*" || ch=="-" || ch=="/")
+            if(ch== "+" || ch=="-"|| ch=="/"|| ch=="*")
+        {
+            int a=st.top();
+            st.pop();
+            int b=st.top();
+            st.pop();
+            if(ch=="+")
             {
-                int a=st.top();
-                st.pop();
-                int b=st.top();
-                st.pop();
-                if(ch=="+")
-                {
-                    val=a+b;
-                }
-                 if(ch=="-")
-                {
-                    val=b-a;
-                }
-                 if(ch=="*")
-                {
-                    val=a*b;
-                }
-                 if(ch=="/")
-                {
-                    val=b/a;
-                }
-                
-
-                st.push(val);
-                
-
+                val=a+b;
             }
-            else{
-                st.push(stoi(ch));
+            if(ch=="-")
+            {
+                val=b-a;
             }
+            if(ch=="*")
+            {
+                val=a*b;
+            }
+            if(ch=="/")
+            {
+                val=b/a;
+            }
+            st.push(val);
         }
-      return st.top();
+        else{
+            st.push(stoi(ch));
+        }
+     }
+        return st.top();
 
     }
 };
