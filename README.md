@@ -78,6 +78,7 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0704-binary-search) |
@@ -86,4 +87,8 @@ C++ DSA practice and LeetCode solutions.
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0202-happy-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
