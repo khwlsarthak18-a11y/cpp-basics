@@ -51,6 +51,7 @@ C++ DSA practice and LeetCode solutions.
 | [0503-next-greater-element-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ C++ DSA practice and LeetCode solutions.
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
