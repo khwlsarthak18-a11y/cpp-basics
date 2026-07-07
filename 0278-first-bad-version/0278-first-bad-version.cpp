@@ -9,8 +9,7 @@ public:
         while(st<=end)
         {
             int mid=st+(end-st)/2;
-           
-            if (isBadVersion(mid) == false)
+            if(!isBadVersion(mid))
             {
                 st=mid+1;
             }
@@ -18,8 +17,6 @@ public:
                 end=mid-1;
             }
         }
-        
-        return st;
-        
+        return {end+1};
     }
 };
