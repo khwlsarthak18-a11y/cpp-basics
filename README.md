@@ -37,6 +37,7 @@ C++ DSA practice and LeetCode solutions.
 | ------- |
 | [0143-reorder-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -93,8 +94,17 @@ C++ DSA practice and LeetCode solutions.
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0509-fibonacci-number) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0278-first-bad-version) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
