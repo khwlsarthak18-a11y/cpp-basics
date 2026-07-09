@@ -36,6 +36,7 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0509-fibonacci-number) |
 ## Array
@@ -94,6 +95,7 @@ C++ DSA practice and LeetCode solutions.
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0509-fibonacci-number) |
 ## Interactive
 |  |
@@ -107,4 +109,8 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
