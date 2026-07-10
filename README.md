@@ -46,6 +46,7 @@ C++ DSA practice and LeetCode solutions.
 | ------- |
 | [0001-two-sum](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
@@ -114,5 +115,10 @@ C++ DSA practice and LeetCode solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
