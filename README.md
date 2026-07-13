@@ -15,6 +15,7 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0234-palindrome-linked-list) |
@@ -129,6 +130,7 @@ C++ DSA practice and LeetCode solutions.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0102-binary-tree-level-order-traversal) |
 ## Breadth-First Search
 |  |
@@ -137,5 +139,10 @@ C++ DSA practice and LeetCode solutions.
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0102-binary-tree-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
