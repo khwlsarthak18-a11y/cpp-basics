@@ -57,6 +57,7 @@ C++ DSA practice and LeetCode solutions.
 | [0150-evaluate-reverse-polish-notation](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
@@ -160,4 +161,8 @@ C++ DSA practice and LeetCode solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0145-binary-tree-postorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
