@@ -142,12 +142,14 @@ C++ DSA practice and LeetCode solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -157,6 +159,7 @@ C++ DSA practice and LeetCode solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -165,6 +168,7 @@ C++ DSA practice and LeetCode solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0226-invert-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
