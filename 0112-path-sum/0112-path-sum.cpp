@@ -6,15 +6,14 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
 public:
-  
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if (root == NULL) {
+        if(root==NULL)
+        {
             return false;
         }
         queue<pair<TreeNode*,int>>q;
@@ -39,11 +38,9 @@ public:
                 {
                     q.push({node->right,value+node->right->val});
                 }
-
+    
             }
         }
         return false;
-
-
     }
 };
