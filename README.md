@@ -66,6 +66,7 @@ C++ DSA practice and LeetCode solutions.
 | [0739-daily-temperatures](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ C++ DSA practice and LeetCode solutions.
 | [0202-happy-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Interactive
 |  |
 | ------- |
@@ -184,4 +186,8 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0238-product-of-array-except-self) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
