@@ -52,6 +52,7 @@ C++ DSA practice and LeetCode solutions.
 | [0001-two-sum](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -123,6 +124,7 @@ C++ DSA practice and LeetCode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -195,4 +197,8 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
