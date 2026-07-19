@@ -70,6 +70,7 @@ C++ DSA practice and LeetCode solutions.
 | [0875-koko-eating-bananas](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
