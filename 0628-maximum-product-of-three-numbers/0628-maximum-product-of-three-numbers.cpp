@@ -16,10 +16,8 @@ public:
             ans*=nums[i];
         }
         
-        if(res>0)
-        {
-            res=res*nums[n-1];
-        }
+        
+        res=res*nums[n-1];
         final=max(res,ans);
        
 
