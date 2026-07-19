@@ -63,6 +63,7 @@ C++ DSA practice and LeetCode solutions.
 | [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0875-koko-eating-bananas) |
@@ -94,6 +95,7 @@ C++ DSA practice and LeetCode solutions.
 | [0242-valid-anagram](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ C++ DSA practice and LeetCode solutions.
 | [0202-happy-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Interactive
 |  |
