@@ -55,6 +55,7 @@ C++ DSA practice and LeetCode solutions.
 | [0075-sort-colors](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0238-product-of-array-except-self) |
@@ -119,6 +120,7 @@ C++ DSA practice and LeetCode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
