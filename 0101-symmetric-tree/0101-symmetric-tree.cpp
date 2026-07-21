@@ -14,23 +14,22 @@ public:
     bool isSymmetric(TreeNode* root) {
         if(root==NULL)
         {
-            return true;
+            return false;
         }
         queue<TreeNode*>q;
         q.push(root->left);
         q.push(root->right);
         while(!q.empty())
         {
-            TreeNode *left=q.front();
+            TreeNode* left=q.front();
             q.pop();
-            TreeNode *right=q.front();
+            TreeNode* right=q.front();
             q.pop();
-
-            if(left==NULL && right==NULL)
+            if(left==NULL&&right==NULL)
             {
                 continue;
             }
-            if(left==NULL ||right==NULL)
+            if(left==NULL||right==NULL)
             {
                 return false;
             }
