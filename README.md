@@ -69,6 +69,7 @@ C++ DSA practice and LeetCode solutions.
 | [0739-daily-temperatures](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
@@ -98,6 +99,7 @@ C++ DSA practice and LeetCode solutions.
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -204,4 +206,8 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0053-maximum-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
