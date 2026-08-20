@@ -72,6 +72,7 @@ C++ DSA practice and LeetCode solutions.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,4 +211,8 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
