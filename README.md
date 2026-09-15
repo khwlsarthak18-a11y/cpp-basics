@@ -161,6 +161,7 @@ C++ DSA practice and LeetCode solutions.
 | [0199-binary-tree-right-side-view](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ C++ DSA practice and LeetCode solutions.
 | [0199-binary-tree-right-side-view](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -215,4 +217,8 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
