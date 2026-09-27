@@ -33,6 +33,7 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0234-palindrome-linked-list) |
@@ -56,6 +57,7 @@ C++ DSA practice and LeetCode solutions.
 | [0053-maximum-subarray](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -96,6 +98,7 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
