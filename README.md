@@ -76,6 +76,7 @@ C++ DSA practice and LeetCode solutions.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2733-neither-minimum-nor-maximum](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/2733-neither-minimum-nor-maximum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ C++ DSA practice and LeetCode solutions.
 | [0414-third-maximum-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
