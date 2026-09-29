@@ -65,6 +65,7 @@ C++ DSA practice and LeetCode solutions.
 | [0238-product-of-array-except-self](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0628-maximum-product-of-three-numbers) |
@@ -103,6 +104,7 @@ C++ DSA practice and LeetCode solutions.
 | [0242-valid-anagram](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/3536-maximum-product-of-two-digits) |
