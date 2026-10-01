@@ -231,4 +231,8 @@ C++ DSA practice and LeetCode solutions.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0700-search-in-a-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/khwlsarthak18-a11y/cpp-basics/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
